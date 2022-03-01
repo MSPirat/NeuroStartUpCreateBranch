@@ -14,7 +14,8 @@
 .selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
-}```
+}
+```
 
 Мы на столько крутые, что уже успели поработать со следующими команиями:
 
